@@ -1,4 +1,4 @@
-# A list of my favourite things 
-- Coding 
-- Physical Activity 
-- Cooking 
+# List of favourite things 
+- Web development
+- Physical Activity
+- Cooking
